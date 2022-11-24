@@ -1634,10 +1634,10 @@
   dependencies:
     "@types/node" "*"
 
-"@viselect/vanilla@^3.0.0-beta.13":
-  version "3.0.0-beta.13"
-  resolved "https://registry.yarnpkg.com/@viselect/vanilla/-/vanilla-3.0.0-beta.13.tgz#cb2ac109701ba25923a885e2ba691fb82302e243"
-  integrity sha512-ML6uLrIpAgtFMRDXc5NfC2K7LiD+IzcsmUfYxrUVvvJgKfxm/eZjhHBvNVbJfto9SHsD9o+KjxJR/iexFyRLVg==
+"@viselect/vanilla@^3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@viselect/vanilla/-/vanilla-3.2.1.tgz#33478a6a729ebeea5cd9ada1454bf3853c896770"
+  integrity sha512-hZj4ArZ351GYlZiqR3dJlgYMDQYDRLgXNQbPVoZ5C8Ms3TeZVkt2famKJh5t7WzBFxbEKvphoEuF7kbyBmYuiA==
 
 "@vue/compiler-core@3.2.37":
   version "3.2.37"
